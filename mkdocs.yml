@@ -1,0 +1,10 @@
+site_name: 我的网站名称
+
+theme:
+  name: material
+  language: zh
+
+nav:
+  - 主页: index.md
+  - 展厅: course/index.md
+  - 关于: about/index.md
